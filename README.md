@@ -1,7 +1,8 @@
 <div align="center"> 
-# FinGlobe
 <img src="./imagens/mockup.png" alt="mockup das telas desenvolvidas no Figma">
 </div>
+
+# FinGlobe
 
 O FinGlobe é uma aplicação de gestão financeira que será desenvolvida no PROPROFISSÃO ao longo dos cinco meses de duração do curso.. As principais tecnologias utilizadas durante o desenvolvimento incluem:
 * HTML
