@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="./imagens/mockup.png" alt="mockup das telas desenvolvidas no Figma">
+<img src=".readme/imagens/mockup.png" alt="mockup das telas desenvolvidas no Figma">
 </div>
 
 # FinGlobe
